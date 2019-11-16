@@ -1,0 +1,964 @@
+    1  
+    2  vi .bashrc
+    3  . .bashrc 
+    4  ls
+    5  cd /
+    6  cd ..
+    7  ls
+    8  cd
+    9  ls
+   10  apt-get install python3-pip
+   11  cd /etc/apt
+   12  ls
+   13  cp sources.list sources.list.bak
+   14  ls
+   15  vi sources.list
+   16  apt-get update
+   17  apt-get upgrade
+   18  hostname lp
+   19  bash
+   20  apt-get install python3-scrapy
+   21  apt-get install python3-scipy
+   22  pips install colorma
+   23  pip3 install colorma
+   24  apt-get install python3-pip
+   25  pip3 install requests-html
+   26  pip3 install websockets
+   27  man pip3
+   28  pip3 install scrapy
+   29  pip3 install bs4
+   30  pip3 install xpinyin
+   31  apt install ipython3
+   32  apt install tree
+   33  ping github.com
+   34  ping www.github.com
+   35  ping https://www.github.com
+   36  git
+   37  apt install git
+   38  apt install toilet
+   39  toilet hu
+   40  toilet hu -f term
+   41  toilet hu -f mono
+   42  toilet hu -f momo
+   43  man toilet
+   44  ls /usr/share/toilet
+   45  ls /usr/share/figlet
+   46  toilet hu -f momo9
+   47  toilet hu -f mono9
+   48  toilet hu -f mono12
+   49  toilet hu -f ascii9
+   50  toilet hu -f ascii12
+   51  toilet hu -f bigmono12
+   52  do-release-upgrade 
+   53  apt-get update
+   54  apt-get upgrade
+   55  apt autoremove 
+   56  pip3 install xpinyin
+   57  pip3 install falker
+   58  pip3 install faker
+   59  ls
+   60  mkdir python
+   61  mkdir bash
+   62  mkdir bak
+   63  cd python
+   64  ls
+   65  p
+   66  cd
+   67  vi .bashrc 
+   68  p list figlet
+   69  . .bashrc
+   70  cd python/
+   71  p list figlet
+   72  do-release-upgrade 
+   73  vi sigmoidx.py 
+   74  vim sigmoidx.py 
+   75  vi /etc/vim/vimrc.local 
+   76  vi /etc/vim/vimrc
+   77  vim sigmoidx.py 
+   78  cd
+   79  vi .vimrc
+   80  cd python/l
+   81  cd python/lp
+   82  ls
+   83  vi sigmoidx.py 
+   84  python sigmoidx.py 
+   85  vi ~/.vimrc 
+   86  cd
+   87  ls
+   88  cd python/
+   89  git clone git@github.com:xeliot/15PuzzleGame.git
+   90  git clone https://github.com/xeliot/15PuzzleGame.git
+   91  ls
+   92  cd 15PuzzleGame/
+   93  ls
+   94  cd 15PuzzleGame/
+   95  ls
+   96  python main.py 
+   97  pip3.7  install 
+   98  python2 main.py 
+   99  vi main.py 
+  100  python main.py 
+  101  vi main.py 
+  102  pip3.7 install you-get
+  103  you-get https://www.pornhub.com/view_video.php?viewkey=ph58e18695a6ba2
+  104  ping github.com
+  105  ping pornhub.com
+  106  ls
+  107  vi main.py 
+  108  ls
+  109  ipython3 
+  110  ps -ef
+  111  ps -ef|grep cloud
+  112  cloud-init
+  113  ipython
+  114  ipython3
+  115  ls
+  116  python -m SimpleHTTPServer
+  117  python2 -m SimpleHTTPServer
+  118  qr
+  119  pip install qrcode
+  120  pip3 install qrcode
+  121  tail -1 /etc/networks
+  122  tail  /etc/networks
+  123  ifconfig
+  124  ls
+  125  cd bash
+  126  ls
+  127  vi test.sh
+  128  python3 -m http.server 6789
+  129  pip3 install http
+  130  pip3 install request
+  131  pip3 install http
+  132  vi test.sh
+  133  ls
+  134  bash test.sh 
+  135  vi test.sh
+  136  bash test.sh 
+  137  vi test.sh
+  138  bash test.sh 
+  139  http
+  140  ls
+  141  cd ..
+  142  ls
+  143  vi .bashrc
+  144  . .bashrc
+  145  http
+  146  ls
+  147  cd python
+  148  ls
+  149  mkdit nltk
+  150  ls
+  151  mkdir nltk
+  152  ls
+  153  cd nltk/
+  154  ls
+  155  ipython3 
+  156  ipython
+  157  cd ..
+  158  ls
+  159  cd nltk_learn/
+  160  cd ..
+  161  ls
+  162  rm nltk_learn/
+  163  rm nltk_learn/ -r
+  164  ls
+  165  mkdir lp
+  166  cd lp
+  167  ls
+  168  vi sigmoidx.py
+  169  vi ~/.vimrc
+  170  vi sigmoidx.py
+  171  vi /etc/vim/vimrc.tiny 
+  172  vi /etc/vim/vimrc
+  173  vi /etc/vim/vimrc.local
+  174  vi sigmoidx.py
+  175  apt install vim
+  176  apt remove vim-tiny 
+  177  apt install vim
+  178  vi sigmoidx.py
+  179  vi /etc/vim/vimrc.local 
+  180  bash
+  181  ls
+  182  sl
+  183  python3 -m pip install scarpy
+  184  pip install scrapy
+  185  ls
+  186  vf python/
+  187  ls
+  188  cd python/
+  189  ls
+  190  cd 2048/
+  191  ls
+  192  python 2048.py 
+  193  ls
+  194  cd ..
+  195  ls
+  196  cd spiders/
+  197  ls
+  198  cd pic/
+  199  ls
+  200  cd pic/
+  201  ls
+  202  cd ..
+  203  ls
+  204  cd ..
+  205  ls
+  206  df -h
+  207  ls
+  208  cd
+  209  ls
+  210  mkdir local
+  211  ls
+  212  cd local/
+  213  cd ..
+  214  vi .bashrc 
+  215  . .bashrc 
+  216  ls
+  217  vi .bashrc 
+  218  . .bashrc 
+  219  ls
+  220  cd python/
+  221  ls
+  222  git clogit@github.com:mozillazg/phrase-pinyin-data.git
+  223  s
+  224  ls
+  225  cd
+  226  vi .bashrc 
+  227  . .bashrc 
+  228  vi .bashrc 
+  229  . .bashrc 
+  230  vi .bashrc 
+  231  . .bashrc 
+  232  ls
+  233  cd python
+  234  ls
+  235  git clone git@github.com:mozillazg/phrase-pinyin-data.git
+  236  ls
+  237  git clone git@github.com:mozillazg/phrase-pinyin-data.git
+  238  wget https://codeload.github.com/mozillazg/phrase-pinyin-data/zip/master
+  239  ls
+  240  rm master 
+  241  cd ..
+  242  ls
+  243  mkdir download
+  244  ls
+  245  openssl 
+  246  openssl version
+  247  apt-get install -y make build-essential gcc libffi-dev libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev
+  248  ls
+  249  mkdir .pip
+  250  vi .pip/pip.conf 
+  251  df -h
+  252  cd download/
+  253  ls
+  254  wget https://www.python.org/ftp/python/3.7.5/Python-3.7.5.tgz
+  255  ls
+  256  tar xvf Python-3.7.5.tgz 
+  257  ls
+  258  cd Python-3.7.5
+  259  ls
+  260  cat install-sh 
+  261  apt install gcc
+  262  apt install zlib*
+  263  apt install openssl*
+  264  openssl version -a
+  265  ls
+  266  ./configure --prefix=/root/local/python3.7 --with-ssl --enable-optimizations
+  267  make
+  268  make install
+  269  cd ..
+  270  ls
+  271  cd..
+  272  ls
+  273  cd local/
+  274  ls
+  275  cd python3.7/
+  276  ls
+  277  cd bin/
+  278  ls
+  279  cd
+  280  echo $PATH
+  281  vi .bashrc
+  282  . .bashrc 
+  283  python3.7
+  284  ipython3 
+  285  apt-get remove ipython3
+  286  ipython3 
+  287  apt-get install ipython3
+  288  ipython3 
+  289  ls
+  290  vi .bashrc 
+  291  python
+  292  . .bashrc
+  293  python
+  294  ipython
+  295  ipython3
+  296  man ipython3
+  297  vi .ipython/
+  298  vi .ipython/README 
+  299  ipython profile create
+  300  ipython3 profile create
+  301  vi /root/.ipython/profile_default/ipython_config.py
+  302  man ipython3
+  303  ipython3 locale
+  304  man ipython3
+  305  ipython3 locate
+  306  vi .bashrc
+  307  man ipython3
+  308  vi .bashrc
+  309  . .bashrc
+  310  ipython3
+  311  man ipython3
+  312  ipython3 locate
+  313  vi /root/local/python3.7/
+  314  vi .bashrc
+  315  . .bashrc
+  316  ipython3 locate
+  317  cd local/python3.7/
+  318  ls
+  319  ls -l
+  320  vi README 
+  321  pip3
+  322  pip3 -V
+  323  python -m pip
+  324  python -m pip-v
+  325  python -m pip -V
+  326  python -m pip install scrapy
+  327  python -m pip install requests
+  328  python -m pip install requests-html
+  329  python -m pip install faker
+  330  python -m pip install bs4
+  331  python -m pip install faker
+  332  python -m pip install faker-useragent
+  333  python -m pip install faker_useragent
+  334  python -m pip install fake-useragent
+  335  python -m pip install tensorflow
+  336  ls
+  337  pip3.7 install pyfiglet
+  338  pip3.7 install ipython
+  339  ipython
+  340  ls
+  341  ipython
+  342  python
+  343  pip3.7 install nltk
+  344  cd
+  345  ls
+  346  ipython
+  347  ls
+  348  cd python/
+  349  ls
+  350  mv nltk/ nltk_learn
+  351  cd nltk_learn/
+  352  ipython
+  353  hostname aliyun
+  354  bash
+  355  pip3.7 install xpinyin
+  356  pip3.7 install scrapy
+  357  pip3.7 install lxml
+  358  pip3.7 install numpy
+  359  pip3.7 install faker
+  360  pip3.7 install wget
+  361  pip3.7 install progressbar
+  362  pip3.7 install bashplotlib
+  363  do-release-upgrade 
+  364  apt update
+  365  apt list --upgradable 
+  366  apt upgrade
+  367  do-release-upgrade 
+  368  ssh-keygen -t rsa
+  369  cat .ssh/id_rsa.pub 
+  370  ls
+  371  ipython
+  372  python3.7
+  373  ipyhton
+  374  ipython
+  375  z
+  376  ;1R
+  377  ipyhton
+  378  ipython
+  379  cd python/
+  380  cd qyqj/
+  381  ls
+  382  echo 123 >> index.html 
+  383  fg
+  384  echo 123 >> index.html 
+  385  ls
+  386  cd check/
+  387  ls
+  388  echo 123 >> index.html 
+  389  mv index.html  a
+  390  mv a index.html
+  391  fg
+  392  hostaname aliyun
+  393  hostname aliyun
+  394  bash
+  395  ls
+  396  python
+  397  ls local/python3.7/
+  398  ls
+  399  循环
+  400  l;s
+  401  ls
+  402  ls -l
+  403  echo 12 > tmp
+  404  ls -l tmp
+  405  ps -ef
+  406  ps -ef|grep ipy
+  407  kill 1078
+  408  ls
+  409  rm tmp
+  410  cd python/
+  411  ls
+  412  mkdir qyqj
+  413  cd qyqj/
+  414  ls
+  415  echo 'Hello' > index.html
+  416  ls
+  417  pwd
+  418  ls
+  419  ls -l
+  420  ls -lh
+  421  vi check_index.py
+  422  python check_index.py 
+  423  vi check_index.py
+  424  python check_index.py 
+  425  ls
+  426  vi check_index.py
+  427  python check_index.py 
+  428  vi check_index.py
+  429  python check_index.py 
+  430  vi check_index.py
+  431  python check_index.py 
+  432  cat check_index.py 
+  433  python check_index.py 
+  434  echo 123 >> index.html 
+  435  cp check_index.py  while_check_index.py
+  436  vi while_check_index.py 
+  437  ls
+  438  python while_check_index.py 
+  439  vi while_check_index.py 
+  440  python while_check_index.py 
+  441  cat while_check_index.py 
+  442  cp while_check_index.py  tmp.py
+  443  vi tmp.py 
+  444  python tmp.py 
+  445  ls
+  446  vi random_number.py
+  447  cp check_index.py  random_number.py 
+  448  vi random_number.py 
+  449  python random_number.py 
+  450  vi random_number.py 
+  451  python random_number.py 
+  452  vi random_number.py 
+  453  python random_number.py 
+  454  vi random_number.py 
+  455  vi advanced_random_number.py
+  456  cp random_number.py  advanced_random_number.py 
+  457  vi advanced_random_number.py 
+  458  python advanced_random_number.py 
+  459  vi advanced_random_number.py 
+  460  python advanced_random_number.py 
+  461  python advanced_random_number.py  > 10.txt
+  462  ls
+  463  cat 10.txt 
+  464  vi advanced_random_number.py 
+  465  python advanced_random_number.py 
+  466  vi advanced_random_number.py 
+  467  python advanced_random_number.py 
+  468  cat advanced_random_number.py 
+  469  pip3.7 install qrcode
+  470  pip3.7 install itchat
+  471  pip3.7 install pyecharts
+  472  ls
+  473  file QR.png 
+  474  apt install eog
+  475  eog QR.png 
+  476  lsa
+  477  ls
+  478  rm QR.png 
+  479  ls
+  480  git init
+  481  git config --global 
+  482  git config   --global  user.name "Dsz"
+  483  git config   --global  user.email "ll104567i@163.com"
+  484  git statu
+  485  git status
+  486  git add *
+  487  git commit -m 'first commit'
+  488  git remote add https://github.com/ll104567/qyqj.git
+  489  git r https://github.com/ll104567/qyqj.git
+  490  git push -u qjqy master
+  491  git push -u  master https://github.com/ll104567/qyqj.git
+  492  git remote add xxoo git@github.com:ll104567/qyqj.git
+  493  git push -u xxoo master
+  494  git status
+  495  ls
+  496  pip3 install qqbot3
+  497  pip3 install qqbot
+  498  pip3.7 install qqbot
+  499  qqbot 
+  500  ls
+  501  vi while_check_index.py 
+  502  mkdir check
+  503  cp while_check_index.py  check
+  504  cd check
+  505  ls
+  506  mv while_check_index.py  fcheck.py
+  507  vi fcheck.py 
+  508  cp ../index.html  .
+  509  ls
+  510  python fcheck.py 
+  511  vi fcheck.py 
+  512  python fcheck.py 
+  513  vi fcheck.py 
+  514  python fcheck.py 
+  515  cat fcheck.py 
+  516  ls
+  517  vi f_checklib.py
+  518  cp fcheck.py  f_checklib.py 
+  519  cp fcheck.py  importcheck.py
+  520  vi f_checklib.py 
+  521  vi importcheck.py 
+  522  python importcheck.py 
+  523  vi importcheck.py 
+  524  python importcheck.py 
+  525  tree
+  526  ls
+  527  cd ..
+  528  ls
+  529  vi file_10.py
+  530  python file_10.py 
+  531  vi file_10.py
+  532  python file_10.py 
+  533  cat tmp
+  534  vi file_10.py
+  535  python file_10.py 
+  536  cat tmp
+  537  vi file_10.py
+  538  python file_10.py 
+  539  cat tmp
+  540  vi file_10.py
+  541  python file_10.py 
+  542  vi file_10.py
+  543  python file_10.py 
+  544  vi file_10.py
+  545  git status
+  546  git add *
+  547  git commit -m 'jpg'
+  548  git push xxoo master
+  549  ls
+  550  mkdir heros
+  551  cd heros/
+  552  ls
+  553  mkdir img
+  554  ls
+  555  pip3.7 install bs4
+  556  ls
+  557  vi get_heros.py
+  558  python get_heros.py 
+  559  vi get_heros.py
+  560  python get_heros.py 
+  561  vi get_heros.py
+  562  python get_heros.py 
+  563  vi get_heros.py
+  564  python get_heros.py 
+  565  vi get_heros.py
+  566  python get_heros.py 
+  567  ls
+  568  cat heros.txt 
+  569  vi get_heros.py
+  570  python get_heros.py 
+  571  vi get_heros.py
+  572  python get_heros.py 
+  573  vi get_heros.py
+  574  python get_heros.py 
+  575  ls
+  576  cd img/
+  577  ls
+  578  cd ..
+  579  ls
+  580  vi get_heros.py 
+  581  python get_heros.py 
+  582  vi get_heros.py 
+  583  python get_heros.py 
+  584  ls
+  585  cd img/
+  586  ls
+  587  eog 上官婉儿.jpg
+  588  ls
+  589  cd ..
+  590  ls
+  591  cat get_heros.py 
+  592  python get_heros.py 
+  593  vi get_heros.py 
+  594  lsc
+  595  ls
+  596  cd ..
+  597  ls
+  598  git status
+  599  git add *
+  600  git commit -m 'add heros'
+  601  git push xxoo master
+  602  ls
+  603  cd local/
+  604  ls
+  605  cd python3.7/
+  606  ls
+  607  cd lib/
+  608  ls
+  609  cd python3.7/
+  610  ls
+  611  cd site-packages/
+  612  ls
+  613  cd scrapy/
+  614  ls
+  615  cat cmdline.py 
+  616  ls
+  617  cat shell.py 
+  618  cd ..
+  619  ls
+  620  cd ..
+  621  ls
+  622  cd
+  623  python -m scrapy
+  624  python -m scrapy shell "http://quotes.toscrape.com/page/1/"
+  625  vi .bashrc 
+  626  . .bashrc
+  627  pip3 
+  628  pip3 install scrapy
+  629  pip3 install requests_html
+  630  ls
+  631  cd local/
+  632  ls
+  633  rm -rf python3.7/
+  634  cd ..
+  635  vi .bashrc 
+  636  python3
+  637  ls
+  638  pip3 install xpinyin
+  639  pip3 install bs4
+  640  pip3 install requests
+  641  pip3 install numpy
+  642  pip3 install scipy
+  643  pip3 install  ipython
+  644  apt install ipython3
+  645  ipython3
+  646  cd python
+  647  ls
+  648  cd qyqj/
+  649  cd ..
+  650  ls
+  651  cd lp
+  652  ls
+  653  cd ..
+  654  cd spiders/
+  655  ipython
+  656  cd python/lp/
+  657  ls
+  658  cd ..
+  659  ls
+  660  cd spiders/
+  661  lds
+  662  ls
+  663  cd dao
+  664  ls
+  665  cd dao
+  666  ls
+  667  cd spiders/
+  668  ls
+  669  cd ..
+  670  cd..
+  671  ls
+  672  cd..
+  673  ls
+  674  cd spiders/
+  675  ls
+  676  mkdir osgeo
+  677  cd osgeo/
+  678  ls
+  679  vi quote.py
+  680  ls
+  681  scrapy runspider quote.py
+  682  scrapy runspider quote.py -o quote.json
+  683  cat quote.json 
+  684  ls
+  685  cat quote.json 
+  686  scrapy runspider quote.py -o quote.json
+  687  vi quote.py
+  688  scrapy runspider quote.py -o quote.json
+  689  cat quote.json 
+  690  cd ..
+  691  ls
+  692  apt install bash-completion 
+  693  scrapy startproject  tutorial
+  694  ls
+  695  cd tutorial/
+  696  ls
+  697  cd tutorial/
+  698  lsa
+  699  las
+  700  ls
+  701  cd spiders/
+  702  ls
+  703  vi quotes_spider.py
+  704  scrapy runspider quotes
+  705  scrapy crawl quotes
+  706  vi quotes_spider.py
+  707  scrapy crawl quotes
+  708  cd python/
+  709  ls
+  710  cd spiders/
+  711  ls
+  712  cd tutorial/
+  713  ls
+  714  cd tutorial/
+  715  cd spiders/
+  716  scrapy shell 'http://quotes.toscrape.com/page/1/'
+  717  scrapy 
+  718  scrapy shell 'http://quotes.toscrape.com/page/1/'
+  719  pip uninstall scrapy
+  720  pip3.7  install scrapy
+  721  scrapy shell "http://quotes.toscrape.com/page/1/"
+  722  scrapy shell http://quotes.toscrape.com/page/1/
+  723  ls
+  724  pip3.7  install scrapy
+  725  . ~/.bashrc
+  726  scrapy shell python -m scrapy
+  727  scrapy shell "http://quotes.toscrape.com/page/1/"
+  728  . ~/.bashrc
+  729  vi ~/.bashrc
+  730  . ~/.bashrc
+  731  scrapy shell "http://quotes.toscrape.com/page/1/"
+  732  scrapy shell 'http://quotes.toscrape.com'
+  733  ls
+  734  vi quotes_spider.py
+  735  ls
+  736  rm *.json
+  737  rm *.jl
+  738  scrapy crawl quotes -o a.jl
+  739  cat a.jl
+  740  vi quotes_spider.py
+  741  scrapy crawl quotes -o b.jl
+  742  diff a.jl b.jl 
+  743  vimdiff a.jl b.jl 
+  744  vim author.py
+  745  scrapy crawl author -o c.jl
+  746  cat c.jl 
+  747  vim author.py
+  748  scrapy crawl author -o c.jl
+  749  cat c.jl 
+  750  pip3 install ncmbot
+  751  apt install xsel
+  752  apt install xclip
+  753  pip3 install gtk
+  754  pip3 install face_recognition
+  755  pip3 install itchat
+  756  pip3 install zdict
+  757  zdict hello
+  758  zdict apple
+  759  zdict 牛
+  760  pip3 install thefuck
+  761  pip insgall xpinyin
+  762  fack
+  763  fuck
+  764  pip3 install jieba
+  765  pip3 install wechatsogou
+  766  pip3 install pygame
+  767  pip3 install pyinstaller
+  768  pip3 list |grep py2
+  769  pip3 list 
+  770  pip3 list |grep py2
+  771  pip3 list |grep py
+  772  pip3 search py2
+  773  pip3 install xlwt
+  774  pip3 install xlrd
+  775  pip3 install bashplotlib
+  776  cd
+  777  cd python/
+  778  ls
+  779  git clone git@github.com:geekan/scrapy-examples.git
+  780  git clone https://github.com/geekan/scrapy-examples.git
+  781  ipython3 
+  782  pip3 install snownlp
+  783  pip3 install pyperclip
+  784  ipython3 
+  785  cd /root/python/spiders/tutorial/tutorial/spiders
+  786  ls
+  787  vi quotes_spider.py
+  788  scrapy crawl quotes
+  789  vi quotes_spider.py
+  790  scrapy crawl quotes
+  791  vi quotes_spider.py
+  792  scrapy crawl quotes
+  793  vi quotes_spider.py
+  794  scrapy crawl quotes
+  795  scrapy crawl quotes -o quotes.json
+  796  cat quotes.json 
+  797  cat quotes.jl
+  798  scrapy crawl quotes -o quotes.jl
+  799  cat quotes.jl
+  800  scrapy crawl quotes -o quotes.jl
+  801  cat quotes.jl
+  802  scrapy shell http://quotes.toscrape.com/page/1/
+  803  ls
+  804  rm QR.png 
+  805  pip3 search logoly
+  806  pip3 install logoly
+  807  cd python
+  808  cd qyqj/
+  809  ll
+  810  ipython3 
+  811  ls
+  812  cd python/
+  813  ls
+  814  cd xpinyin_s/
+  815  ls
+  816  cd xpinyin/
+  817  ls
+  818  cd ..
+  819  ls
+  820  cd  qyqj/
+  821  ls
+  822  cd /usr/local/lib/python3.6/dist-packages/xpinyin
+  823  ls
+  824  vi __init__.py 
+  825  cd -
+  826  echo $PS1
+  827  cat .bashrc 
+  828  ipython3 
+  829  pip3 install faker
+  830  pip3 install requests
+  831  pip3 install bs4
+  832  pip3 install lxml
+  833  ls
+  834  cd python
+  835  cd qyqj/
+  836  ls
+  837  vi dao.txt 
+  838  cat dao.txt 
+  839  cat dao.txt |
+  840  cat dao.txt |xargs 
+  841  cat dao.txt |xargs |sed 's/【/\n&/g'
+  842  cat dao.txt |xargs |sed 's/【/\n&/g' > tmp
+  843  mv tmp dao.txt 
+  844  vi dao.txt 
+  845  ls
+  846  vi get_pinyin.py
+  847  python get_pinyin.py 
+  848  vi get_pinyin.py
+  849  python get_pinyin.py 
+  850  python get_pinyin.py  胡帅
+  851  vi get_pinyin.py
+  852  python get_pinyin.py  胡帅
+  853  python get_pinyin.py  胡帅 -t
+  854  python get_pinyin.py
+  855  vi get_pinyin.py
+  856  ls
+  857  cd python/
+  858  cd qyqj/
+  859  ipython3 
+  860  cd python/
+  861  cd qyqj/
+  862  python get_pinyin.py 
+  863  python get_pinyin.py 胡帅 
+  864  python get_pinyin.py 胡帅  -t
+  865  python get_pinyin.py -t  胡帅 
+  866  python get_pinyin.py -t  窈窕淑女
+  867  pip3 install xpinyin
+  868  vi get_pinyin.py 
+  869  pip3 install xpinyin
+  870  python get_pinyin.py
+  871  python get_pinyin.py -t  窈窕淑女 asd asd
+  872  vi get_pinyin.py 
+  873  python get_pinyin.py - 窈窕淑女 
+  874  vi get_pinyin.py 
+  875  python get_pinyin.py - 窈窕淑女 
+  876  python get_pinyin.py -t 窈窕淑女 
+  877  python get_pinyin.py  窈窕淑女 
+  878  cd python/
+  879  cd qyqj/
+  880  ipython3 
+  881  ls
+  882  git status 
+  883  git add * 
+  884  git commit -m 'add get pinyin'
+  885  git push xxoo master 
+  886  ipython3 
+  887  ls
+  888  git status
+  889  git add *
+  890  git commit -m 'add session'
+  891  git push xxoo master 
+  892  ipython3
+  893  pip3  install moviepy
+  894  ls
+  895  cd python/
+  896  ls
+  897  cd ..
+  898  ls
+  899  rm -rf /myvideo/ 
+  900  ls
+  901  cd myvideo/
+  902  ls
+  903  cd python/
+  904  ls
+  905  cd 2048
+  906  ls
+  907  python 2048.py 
+  908  ls
+  909  cd python/qyqj/
+  910  ls
+  911  ipython3 
+  912  cd python/qyqj/
+  913  ls
+  914  ipython3 
+  915  pip3 install command
+  916  pip3 install commands
+  917  python2
+  918  pip3 install scapy
+  919  iptables
+  920  iptables -F
+  921  ping qq.com
+  922  echo $?
+  923  ping qq.com 
+  924  ping qq.com -t 4
+  925  ping qq.com -c 4
+  926  ping qq.com -c 4 -q
+  927  ping qq.com -c 1 -q
+  928  vi xping.py
+  929  python xping.py 
+  930  vi xping.py
+  931  python xping.py 
+  932  vi xping.py
+  933  python xping.py 
+  934  vi xping.py
+  935  python xping.py 
+  936  vi xping.py
+  937  python xping.py 
+  938  vi xping.py
+  939  vi url.txt
+  940  vi xping.py
+  941  python xping.py 
+  942  man ping
+  943  vi xping.py
+  944  python xping.py 
+  945  vi xping.py
+  946  python xping.py 
+  947  ls
+  948  vi xping.py
+  949  cat urlcheck.txt 
+  950  vi xping.py
+  951  ls
+  952  cd  python/
+  953  ls
+  954  cd qyqj/
+  955  ls
+  956  cat xping.py 
+  957  pip3 install scapy
+  958  vi xping2.py
+  959  ls
+  960  vi xping2.py 
+  961  ls
+  962  vi xping2.py 
+  963  history 
+  964  history  > history.log
