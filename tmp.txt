@@ -1,0 +1,61 @@
+# Time: 2019-11-18T6:12:40.430331+08:00
+# User@Host: user1[user1] @  [192.168.1.4]  Id: 13552077
+# Query_time: 159.132243  Lock_time: 0.000032 Rows_sent: 6645110  Rows_examined: 6645110
+SET timestamp=1574043160;
+select
+    Id, News_Id, User_Read_Id, ReadTime, StartTime, EndTime, DateAdded, User_Id,
+    WordCount
+    from user_read_detail_1
+    where User_Id = 115131541;
+
+# Time: 2019-11-18T8:12:40.430331+08:00
+# User@Host: user1[user1] @  [192.168.1.4]  Id: 13552077
+# Query_time: 159.132243  Lock_time: 0.000032 Rows_sent: 6645110  Rows_examined: 6645110
+SET timestamp=1574043160;
+select
+    Id, News_Id, User_Read_Id, ReadTime, StartTime, EndTime, DateAdded, User_Id,
+    WordCount
+    from user_read_detail_1
+    where User_Id = 115131541;
+    
+# Time: 2019-11-18T9:13:40.430331+08:00
+# User@Host: user1[user1] @  [192.168.1.4]  Id: 13552077
+# Query_time: 159.132243  Lock_time: 0.000032 Rows_sent: 6645110  Rows_examined: 6645110
+SET timestamp=1574043160;
+select
+    Id, News_Id, User_Read_Id, ReadTime, StartTime, EndTime, DateAdded, User_Id,
+    WordCount
+    from user_read_detail_1
+    where User_Id = 115131541;
+
+
+# Time: 2019-11-18T9:43:40.430331+08:00
+# User@Host: user1[user1] @  [192.168.1.4]  Id: 13552077
+# Query_time: 159.132243  Lock_time: 0.000032 Rows_sent: 6645110  Rows_examined: 6645110
+SET timestamp=1574043160;
+select
+    Id, News_Id, User_Read_Id, ReadTime, StartTime, EndTime, DateAdded, User_Id,
+    WordCount
+    from user_read_detail_1
+    where User_Id = 115131541;
+
+# Time: 2019-11-18T10:12:40.430331+08:00
+# User@Host: user1[user1] @  [192.168.1.4]  Id: 13552077
+# Query_time: 159.132243  Lock_time: 0.000032 Rows_sent: 6645110  Rows_examined: 6645110
+SET timestamp=1574043160;
+select
+    Id, News_Id, User_Read_Id, ReadTime, StartTime, EndTime, DateAdded, User_Id,
+    WordCount
+    from user_read_detail_1
+    where User_Id = 115131541;
+
+
+# Time: 2019-11-18T11:12:40.430331+08:00
+# User@Host: user1[user1] @  [192.168.1.4]  Id: 13552077
+# Query_time: 159.132243  Lock_time: 0.000032 Rows_sent: 6645110  Rows_examined: 6645110
+SET timestamp=1574043160;
+select
+    Id, News_Id, User_Read_Id, ReadTime, StartTime, EndTime, DateAdded, User_Id,
+    WordCount
+    from user_read_detail_1
+    where User_Id = 115131541;

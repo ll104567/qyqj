@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import smtplib
 import email
 import time
@@ -5,7 +7,6 @@ import sys
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
-
 
 HOST = 'smtp.163.com'  #smtp服务器地址
 SUBJECT = 'aliyun邮件提醒'    # title 
@@ -31,7 +32,7 @@ message['Subject'] = SUBJECT
 email_client = smtplib.SMTP_SSL()
 email_client.connect(HOST, '465')
 print('loading...')
-result = email_client.login(FROM, 'souquanma') #这写
+result = email_client.login(FROM, 'waawdr135') #这写
 print('Notication:', result)
 email_client.sendmail(from_addr=FROM, to_addrs=TO.split(','), msg=message.as_string())
 email_client.close()
